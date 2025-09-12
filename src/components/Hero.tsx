@@ -182,8 +182,8 @@ const Hero = () => {
                 <span>Balasore, India</span>
               </div>
               
-              <div className="flex items-center justify-center space-x-2 text-muted-foreground">
-                <div className="w-3 h-2 bg-success rounded-full animate-pulse"></div>
+              <div className="flex items-center justify-center space-x-3 text-muted-foreground">
+                <div className="w-4 h-2 bg-success rounded-full animate-pulse"></div>
                 <span>Open to work as a data analyst and ML Engineer</span>
               </div>
               
