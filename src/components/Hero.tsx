@@ -184,7 +184,7 @@ const Hero = () => {
               
               <div className="flex items-center justify-center space-x-2 text-muted-foreground">
                 <div className="w-2 h-2 bg-success rounded-full animate-pulse"></div>
-                <span>Open to work as a data analyst</span>
+                <span>Open to work as a data analyst and ML Engineer</span>
               </div>
               
               <div className="flex items-center justify-center space-x-2 text-muted-foreground">

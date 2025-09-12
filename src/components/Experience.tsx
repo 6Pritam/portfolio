@@ -24,7 +24,7 @@ const Experience = () => {
       achievements: [
         "Performed EDA on large datasets to find patterns and trends",
         "Built ML models for classification and regression tasks",
-        "Created visualizations and dashboards with Tableau, Power BI, and R Shiny",
+        "Created visualizations and dashboards with Excel, SQL, and Power BI",
         "Cleaned and transformed raw data for analysis and reporting"
       ]
     }
