@@ -176,16 +176,16 @@ const Hero = () => {
 
           {/* Quick Facts */}
           <div className="glass-card max-w-4xl mx-auto p-6 mt-8 animate-slide-up">
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
+            <div className="grid grid-cols-1 md:grid-cols-[1fr_2fr_1fr] gap-6 text-sm">
               <div className="flex items-center justify-center space-x-2 text-muted-foreground">
                 <MapPin className="h-4 w-4 text-primary" />
                 <span>Balasore, India</span>
               </div>
               
-              <div className="flex items-center justify-center space-x-2 text-muted-foreground">
-                <div className="w-4 h-3 bg-success rounded-full animate-pulse"></div>
-                <span>Open to work as a data analyst and ML Engineer</span>
-              </div>
+              <div className="flex items-center justify-center space-x-2 text-muted-foreground whitespace-nowrap">
+                <div className="w-2 h-2 bg-success rounded-full animate-pulse"></div>
+                  <span>Open to work as a data analyst and ML Engineer</span>
+                </div>
               
               <div className="flex items-center justify-center space-x-2 text-muted-foreground">
                 <div className="w-2 h-2 bg-primary rounded-full"></div>
